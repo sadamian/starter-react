@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Product Component Snap Product Properly 1`] = `
+<div
+  className="sc-bdfBwQ NALLI"
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+      }
+    }
+  >
+    <div
+      className="sc-dlfnbm ynGPZ"
+    />
+    <div
+      className="sc-gsTCUz fYVHqO"
+    >
+      productos
+    </div>
+  </div>
+</div>
+`;
