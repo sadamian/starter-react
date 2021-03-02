@@ -82,7 +82,7 @@ Deals with all state management
 
 - [ ] Add react-query
 - [ ] Add script to add new module or new screen automatically
-- [ ] Add e2e tests with `detox`
+- [ ] Add e2e tests with `cypress`
 
 ## Inspiration and resources
 
